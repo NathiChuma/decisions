@@ -34,7 +34,7 @@ export default defineConfig(({ mode }) => ({
     outDir: "dist",
   },
   plugins: [react(), expressPlugin()],
-  base: "/" ,
+  base: "./" ,
   resolve: {
     alias: {
       "@": path.resolve(__dirname, "./client"),

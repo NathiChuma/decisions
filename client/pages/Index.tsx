@@ -11,7 +11,7 @@ export default function Index() {
             <div className="w-8 h-8 bg-gradient-to-br from-blue-500 to-cyan-500 rounded-lg flex items-center justify-center">
               <CheckCircle2 className="w-5 h-5 text-white" />
             </div>
-            <span className="text-xl font-bold text-foreground">Decisions</span>
+            <span className="text-xl font-bold text-foreground">Decisionsss</span>
           </div>
           <div className="flex items-center gap-3">
             <Link
